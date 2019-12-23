@@ -84,7 +84,7 @@ select {
 }
 
 .radio-custom:checked + .radio-custom-label:before {
-    content: "\2713";
+    content: "\2714";
     background: #424949;
     color: #ffffff;
     width: 16px;
